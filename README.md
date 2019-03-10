@@ -16,8 +16,5 @@
 <img src="http://wx2.sinaimg.cn/large/586f5255gy1g0vnrbkq4vj20u01bqnpe.jpg" width="56%"/>
 <img src="http://wx3.sinaimg.cn/large/586f5255gy1g0vd70i9bsj20lw0w8gyg.jpg" width="56%"/>
 
-![http://wx3.sinaimg.cn/large/586f5255gy1g0vd70i9bsj20lw0w8gyg.jpg](http://wx3.sinaimg.cn/large/586f5255gy1g0vd70i9bsj20lw0w8gyg.jpg)
-
-
 ## 就酱紫叭
 
