@@ -10,8 +10,10 @@
 ![3](http://wx1.sinaimg.cn/large/586f5255gy1g0wop61vdlj20ij0rse0z.jpg)
 ![4](http://wx2.sinaimg.cn/large/586f5255gy1g0wou68b9oj20jq0rskb7.jpg)
 -->
-<center class="half">
-    <img src="http://wx1.sinaimg.cn/large/586f5255gy1g0woqz9wxdj20u016fh81.jpg" width="33.33%"/><img src="http://wx2.sinaimg.cn/large/586f5255gy1g0wvn9lgt6j21c00u0qi9.jpg" width="33.33%"/><img src="http://wx2.sinaimg.cn/large/586f5255gy1g0wou68b9oj20jq0rskb7.jpg" width="33.33%"/>
-</center>
+<figure class="third">
+    <img src="http://wx1.sinaimg.cn/large/586f5255gy1g0woqz9wxdj20u016fh81.jpg" width="33.33%"/>
+    <img src="http://wx2.sinaimg.cn/large/586f5255gy1g0wvn9lgt6j21c00u0qi9.jpg" width="33.33%"/>
+    <img src="http://wx2.sinaimg.cn/large/586f5255gy1g0wou68b9oj20jq0rskb7.jpg" width="33.33%"/>
+</figure>
 ## 就酱紫叭
 
